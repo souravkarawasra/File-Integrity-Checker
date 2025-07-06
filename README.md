@@ -86,6 +86,3 @@ No need to manually check thousands of files.
 Easy GUI makes it user-friendly even for non-programmers.
 
 Lightweight and does not require internet or heavy dependencies.
-
-# Output 
-![Image](Screenshot 2025-07-06 103336)
