@@ -86,3 +86,6 @@ No need to manually check thousands of files.
 Easy GUI makes it user-friendly even for non-programmers.
 
 Lightweight and does not require internet or heavy dependencies.
+
+# Output
+![Screenshot 2025-07-06 110354](https://github.com/user-attachments/assets/f8f38a46-4529-4b8d-9085-0aed2a255b6e)
